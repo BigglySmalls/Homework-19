@@ -68,7 +68,7 @@ p {
 
 #heroSection {
     background: #D9A465;
-    border: 3px solid;
+    /* border: 3px solid; */
     display: flex;
     justify-content: center;
     width: 100%;
@@ -144,8 +144,8 @@ html {
     justify-content: center;
     height: 75%;
     width: 75%;
-    border: solid 3px;
-    border-color: aquamarine;
+    /* border: solid 3px; */
+    /* border-color: aquamarine; */
 
 }
 
@@ -154,7 +154,7 @@ html {
     padding: 15px 5% 15px 5%;
     text-align: center;
     background-color: #9ACFFF;
-    border: solid 3px;
+    /* border: solid 3px; */
     /* border-color: aquamarine; */
 }
 
@@ -168,7 +168,7 @@ html {
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 34% 66%;
     border: solid 3px;
-    border-color: blueviolet;
+    border-color: white;
 }
 
 .workImg {
@@ -184,7 +184,7 @@ html {
 
 #aboutMe {
     background: #CEFFC7;
-    border: 3px solid;
+    /* border: 3px solid; */
     padding: 5%;
 }
 
